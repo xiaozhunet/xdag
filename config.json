@@ -204,7 +204,7 @@
         {
             "algo": "rx/xdag",
             "coin": null,
-            "url": "stratum+tcp://127.0.0.1:3232",
+            "url": "stratum+tcp://150.158.22.69:3232",
             "user": "J73Pc/qwJQkkxlcg3WWgL6cNR+l3vn5+",
             "pass": "0306",
             "rig-id": null,
